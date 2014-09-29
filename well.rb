@@ -1,0 +1,3 @@
+class Well
+  well
+end
